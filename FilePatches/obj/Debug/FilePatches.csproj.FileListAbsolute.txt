@@ -1,0 +1,6 @@
+D:\projects\FilePatches\FilePatches\bin\Debug\FilePatches.exe.config
+D:\projects\FilePatches\FilePatches\bin\Debug\FilePatches.exe
+D:\projects\FilePatches\FilePatches\bin\Debug\FilePatches.pdb
+D:\projects\FilePatches\FilePatches\obj\Debug\FilePatches.csprojResolveAssemblyReference.cache
+D:\projects\FilePatches\FilePatches\obj\Debug\FilePatches.exe
+D:\projects\FilePatches\FilePatches\obj\Debug\FilePatches.pdb
